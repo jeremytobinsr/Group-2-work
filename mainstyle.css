@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+
+.one { 
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.two {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        color: chartreuse;
+     }
